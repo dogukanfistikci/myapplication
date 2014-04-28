@@ -1,0 +1,10 @@
+Description
+===========
+Sample application demonstrating how to create a Spring MVC 3.1 application with Spring Data MongoDB 
+This is also dynamic web application. Project contains java,html,css and javascript files.
+When the project has complied with MVC.The aim of the project registered users to list,
+delete, update and to add new users.Users must be entered when registering mandatory fields;
+name, surname and phone number.
+
+
+
